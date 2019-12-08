@@ -16,7 +16,7 @@ def runTestCase(filename):
         print('Kunne ikke finde testfiler. Prøver at generere.')
         testDataGenerator.generate()
         runTestCase()
-
+v
     try:
         print('Starter Select Sort')
         tStart = time.time()
